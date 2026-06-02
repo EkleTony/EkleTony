@@ -1,304 +1,210 @@
-# 👋 Hi, I'm Anthony O. Ekle
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Welcome+to+Anthony+Ekle's+GitHub;Graph+Machine+Learning+Researcher;Best+Paper+Award+Winner;PhD+Candidate+at+Tennessee+Tech;Anomaly+Detection+%7C+GNNs+%7C+Geospatial+AI)]()
 
-### PhD Candidate in Computer Science @ Tennessee Technological University
+# 👋 Hey, I'm Anthony O. Ekle
 
-**Graph Machine Learning • Anomaly Detection • GNNs • Multimodal AI • Geospatial AI • Cybersecurity AI**
+### PhD Candidate (AI/ML) • Graph ML Researcher • Builder of Intelligent Learning Systems
 
-🏆 Best Paper Award Winner
-📚 ACM TKDD & IEEE Published Researcher
-🔬 Creator of DecayRank, Adaptive DecayRank, GraphSketch, GeoModRank, and ViGAT
+I develop AI systems that learn from evolving networks, detect anomalies in real time, and make intelligent decisions from complex graph-structured data.
 
-I am a Computer Science PhD candidate specializing in scalable AI systems, graph machine learning, anomaly detection, multimodal learning, and intelligent decision-making systems. My research focuses on developing adaptive machine learning frameworks capable of learning from dynamic environments, evolving networks, and real-world streaming data.
+* 🧠 **Graph Machine Learning:** dynamic graph streams, anomaly detection, graph neural networks, representation learning
+* 🚀 **AI Systems:** multimodal AI, self-supervised learning, scalable experimentation pipelines
+* 🌎 **Geospatial AI:** spatial representation learning, climate AI, graph foundation models
+* 🚗 **Autonomous Systems:** perception security, anomaly detection, trustworthy AI
+* 🔐 **Cybersecurity AI:** vulnerability assessment, cyber risk evaluation, intelligent monitoring
 
----
+📍 Based in Tennessee, USA
 
-## ⚡ TL;DR for Recruiters
-
-* PhD Candidate in Computer Science (AI & Machine Learning)
-* Published researcher with work in ACM TKDD, IEEE, FLAIRS, Applied Sciences, and other venues
-* Author of multiple graph learning frameworks:
-
-  * DecayRank
-  * Adaptive DecayRank
-  * GraphSketch
-  * Adaptive GraphSketch
-  * GeoModRank
-  * ViGAT
-* Research expertise:
-
-  * Graph Machine Learning
-  * Graph Neural Networks (GNNs)
-  * Dynamic Graph Streams
-  * Multimodal AI
-  * Autonomous Vehicle Security
-  * Geospatial Representation Learning
-  * Cybersecurity AI
-* Strong experience with Python, PyTorch, C++, scalable experimentation pipelines, and GPU-accelerated machine learning
+🎓 Currently completing a PhD in Computer Science at Tennessee Technological University.
 
 ---
 
-## 🔬 Research Interests
+# ⚡ TL;DR for Recruiters
 
-My research lies at the intersection of:
+* 🏆 Best Paper Award Winner (College of Engineering, Tennessee Tech)
+* 📚 Published researcher with work in ACM TKDD, IEEE, FLAIRS, Applied Sciences, and other venues
+* 🔬 Creator of DecayRank, Adaptive DecayRank, GraphSketch, Adaptive GraphSketch, GeoModRank, and ViGAT
+* 🤖 Research spanning Graph ML, GNNs, Multimodal AI, Geospatial AI, and Autonomous Vehicle Security
+* 🐍 Strong experience in Python, PyTorch, C++, graph analytics, and scalable AI systems
 
-### 🧠 Graph Machine Learning
+If you need someone who can design algorithms, build AI systems, and publish impactful research, that's my lane.
 
-* Dynamic Graph Representation Learning
-* Graph Neural Networks (GCN, GAT, GraphSAGE)
-* Streaming Graph Analytics
-* Real-Time Anomaly Detection
-* Graph-Based Ranking Systems
+---
 
-### 🤖 Artificial Intelligence
+# 🔗 Quick Links
 
-* Multimodal AI Systems
+* 💼 LinkedIn
+* 📚 Google Scholar
+* 🌐 GitHub
+* 📧 Email: [ekleanthony5@gmail.com](mailto:ekleanthony5@gmail.com)
+
+---
+
+# 🧩 What I'm Building
+
+## 📈 GraphSketch
+
+A memory-efficient framework for real-time anomaly detection in dynamic graph streams using probabilistic sketching techniques.
+
+**Published at IEEE ICKG 2025**
+
+---
+
+## 🧠 Adaptive DecayRank
+
+A real-time graph intelligence framework using Bayesian PageRank updates to detect structural and temporal anomalies in evolving networks.
+
+**Published in Applied Sciences**
+
+---
+
+## 🌎 GeoModRank
+
+A self-supervised learning framework for multimodal geospatial data and climate-related representation learning.
+
+Developed for large-scale spatial intelligence and environmental modeling.
+
+---
+
+## 🚗 ViGAT
+
+A multi-scale Vision-to-Graph anomaly detection framework for autonomous vehicles.
+
+Designed to bridge visual perception and graph reasoning for trustworthy AI systems.
+
+---
+
+# 🔬 Research Overview
+
+My research focuses on building intelligent systems capable of learning from dynamic environments and making decisions under uncertainty.
+
+Core research themes include:
+
+* Dynamic Graph Learning
+* Graph Neural Networks
+* Streaming AI Systems
+* Multimodal Learning
 * Self-Supervised Learning
-* Foundation Models
-* Intelligent Decision Systems
-* Agentic AI
-
-### 🚗 Autonomous Systems
-
-* Autonomous Vehicle Security
-* Vision-to-Graph Learning
-* Sensor Fusion
-* Perception Robustness
-* Real-Time Detection Systems
-
-### 🌍 Geospatial AI
-
-* Spatial Representation Learning
-* Climate Informatics
 * Geospatial Foundation Models
-* Self-Supervised Geospatial Learning
+* Autonomous Vehicle Security
+* Cybersecurity AI
 
-### 🔐 Cybersecurity
-
-* Vulnerability Assessment
-* Cyber Risk Evaluation
-* Secure AI Systems
-* Threat Detection and Monitoring
+I am particularly interested in scalable AI systems that operate in real-world environments where data evolves continuously and intelligent adaptation is required.
 
 ---
 
-## 🧩 Featured Research Projects
+# 🧪 Research Highlights (Selected)
 
-### Adaptive DecayRank
-
-Real-Time Anomaly Detection in Dynamic Graphs using Bayesian PageRank updates and temporal decay mechanisms.
-
-**Publication:** Applied Sciences, 2025
-
----
-
-### GraphSketch
-
-A memory-efficient probabilistic framework for real-time anomaly detection over dynamic graph streams using sketching techniques and Bayesian thresholding.
-
-**Publication:** IEEE ICKG 2025
+* 📄 Adaptive GraphSketch: Real-Time Edge Anomaly Detection via Multi-Layer Tensor Sketching (IEEE ICKG 2025)
+* 📄 Adaptive DecayRank: Real-Time Anomaly Detection in Dynamic Graphs with Bayesian PageRank Updates (Applied Sciences)
+* 📄 Anomaly Detection in Dynamic Graphs: A Comprehensive Survey (ACM TKDD)
+* 📄 Cyber Risk Evaluation for Android-Based Devices (IEEE DSC)
+* 📄 Machine Learning Enhanced Categorization of Cybersecurity Vulnerabilities (IEEE UEMCON)
+* 📄 Low-Resource Neural Machine Translation Using Transfer Learning (MIPT Research Thesis)
 
 ---
 
-### GeoModRank
+# 📄 Publications (Selected)
 
-Self-Supervised Spatial Representation Learning for Multimodal Geospatial Data.
+### ACM TKDD
 
-Designed for scalable geospatial modeling and climate-related machine learning tasks.
-
----
-
-### ViGAT
-
-Multi-Scale Vision-to-Graph Anomaly Detection for Autonomous Vehicles.
-
-A framework connecting visual perception with graph-based reasoning for intelligent anomaly detection.
+**Anomaly Detection in Dynamic Graphs: A Comprehensive Survey**
 
 ---
 
-### Cyber Risk Evaluation for Android Devices
+### Applied Sciences
 
-Machine-learning-based vulnerability analysis and cybersecurity risk assessment framework.
-
-**Publication:** IEEE DSC
+**Adaptive DecayRank: Real-Time Anomaly Detection in Dynamic Graphs with Bayesian PageRank Updates**
 
 ---
 
-## 📄 Selected Publications
+### IEEE ICKG
 
-### Adaptive GraphSketch: Real-Time Edge Anomaly Detection via Multi-Layer Tensor Sketching
-
-IEEE International Conference on Knowledge Graph (ICKG), 2025
-
-### Adaptive DecayRank: Real-Time Anomaly Detection in Dynamic Graphs with Bayesian PageRank Updates
-
-Applied Sciences, 2025
-
-### Anomaly Detection in Dynamic Graphs: A Comprehensive Survey
-
-ACM Transactions on Knowledge Discovery from Data (TKDD), 2024
-
-### Cyber Risk Evaluation for Android-Based Devices
-
-IEEE Conference on Dependable and Secure Computing (DSC), 2023
-
-### Machine Learning Enhanced Categorization of Cybersecurity Vulnerabilities
-
-IEEE UEMCON, 2024
-
-### Dynamic PageRank with Decay
-
-FLAIRS Conference Proceedings, 2024
-
-### Low-Resource Neural Machine Translation Using Transfer Learning
-
-MIPT Research Thesis / arXiv
+**Adaptive GraphSketch: Real-Time Edge Anomaly Detection via Multi-Layer Tensor Sketching**
 
 ---
 
-## 🏆 Awards & Honors
+### IEEE DSC
 
-🥇 Doctoral Best Paper Eminence Award — Tennessee Tech University
-
-🥇 Best Graduate Poster Award — Tennessee Tech Research & Creative Inquiry Day
-
-🎓 Fully Funded PhD Fellowship — Tennessee Tech University
-
-🌍 Open Doors International Olympiad Winner
-
-🎓 University of Milan-Bicocca PhD Scholarship Recipient
-
-💻 Phystech-Alpha Competition Award Recipient — Moscow Institute of Physics and Technology
+**Cyber Risk Evaluation for Android-Based Devices**
 
 ---
 
-## 👨‍🏫 Leadership & Service
+### IEEE UEMCON
 
-### Academic Leadership
-
-* President, African Student Union (Tennessee Tech)
-* President, Computer Science Graduate Student Club
-* NSF REU Research Mentor
-
-### Scholarly Service
-
-Reviewer for:
-
-* ACM TKDD
-* IEEE Systems, Man, and Cybernetics
-* Pattern Recognition
-* Springer Nature Journals
-
-### Community Engagement
-
-* Volunteer, Women in Cyber Security (WiCyS)
-* Research Mentorship and Student Development
+**Machine Learning Enhanced Categorization of Cybersecurity Vulnerabilities**
 
 ---
 
-## 🛠 Technical Skills
+# 🏆 Achievements & Honors
 
-### Programming
+* 🥇 Doctoral Best Paper Eminence Award
+* 🥇 Best Graduate Poster Award
+* 🎓 Fully Funded PhD Fellowship
+* 🌍 Open Doors International Olympiad Winner
+* 🎓 University of Milan-Bicocca PhD Scholarship Recipient
+* 💻 MIPT Phystech-Alpha Competition Award Recipient
 
-Python • C++ • SQL • JavaScript • React
+---
 
-### Machine Learning & AI
+# 🛠 Tech Stack
 
-PyTorch
-TensorFlow
-Scikit-Learn
-Deep Learning
-Transformers
-CNNs
-Graph Neural Networks
+### Languages
+
+* Python
+* C++
+* SQL
+* JavaScript
+
+### Machine Learning
+
+* PyTorch
+* TensorFlow
+* Scikit-Learn
+* Transformers
+* CNNs
+* Graph Neural Networks
 
 ### Generative AI
 
-Large Language Models (LLMs)
+* LLMs
+* LangChain
+* RAG
+* Vector Databases
+* Knowledge Graphs
+* Agentic AI
 
-LangChain
+### Infrastructure
 
-Retrieval-Augmented Generation (RAG)
-
-Embeddings
-
-Vector Databases
-
-Knowledge Graphs
-
-Agentic AI Systems
-
-### Data & Infrastructure
-
-Linux
-
-Git
-
-Docker
-
-Conda
-
-Jupyter
-
-Google Colab
-
-Streaming Analytics
-
-ETL Pipelines
-
-Real-Time Inference Systems
-
-### Hardware & Compute
-
-NVIDIA A100
-
-NVIDIA Jetson Orin
-
-RTX-A5000
-
-GPU-Accelerated Training
-
-Distributed Experimentation
+* Linux
+* Git
+* Docker
+* Conda
+* Jupyter
+* GPU-Accelerated Computing
 
 ---
 
-## 📈 Current Focus
+# 🤝 Leadership & Service
 
-I am currently working on:
-
-* Dynamic graph anomaly detection
-* Graph foundation models
-* Multimodal AI systems
-* Geospatial representation learning
-* Autonomous vehicle perception security
-* Scalable AI infrastructure
-* Real-time intelligent monitoring systems
+* President, African Student Union
+* President, Computer Science Graduate Student Club
+* NSF REU Research Mentor
+* Reviewer for ACM TKDD, IEEE SMC, Pattern Recognition, and Springer Nature Journals
 
 ---
 
-## 🎯 Long-Term Vision
+# 🚀 Let's Connect
 
-My goal is to build impactful AI systems that advance science, industry, and society through scalable machine learning, trustworthy AI, intelligent graph systems, and real-world decision-making technologies.
+I'm actively interested in opportunities involving:
 
-I am particularly interested in opportunities involving:
+* Research Scientist
+* Applied Scientist
+* AI Research
+* Graph Machine Learning
+* Multimodal AI
+* Geospatial AI
+* Trustworthy AI
 
-* Research Scientist roles
-* Applied Scientist roles
-* AI/ML Research Labs
-* Industry Research
-* Academic Research Collaborations
+Feel free to reach out if you'd like to collaborate on research, AI systems, or innovative graph learning projects.
 
----
-
-## 📫 Connect With Me
-
-📧 Email: [ekleanthony5@gmail.com](mailto:ekleanthony5@gmail.com)
-
-💼 LinkedIn: linkedin.com/in/anthonyekle
-
-🌐 GitHub: github.com/EkleTony
-
-📚 Google Scholar: (add your Google Scholar link)
-
----
-
-> “Building intelligent systems that learn from complex networks, adapt to changing environments, and create meaningful impact through AI.”
+📧 **[ekleanthony5@gmail.com](mailto:ekleanthony5@gmail.com)**
