@@ -1,5 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Welcome+to+Anthony+Ekle's+GitHub;Graph+Machine+Learning+Researcher;Best+Paper+Award+Winner;PhD+Candidate+at+Tennessee+Tech;Anomaly+Detection+%7C+GNNs+%7C+Geospatial+AI)]()
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:020024,50:090979,100:00d4ff&text=Welcome%20to%20Anthony%20Ekle's%20GitHub&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Graph%20Machine%20Learning%20•%20Anomaly%20Detection%20•%20GNNs%20•%20AI%20Research&descSize=18&descAlignY=65" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=PhD+Candidate+in+Computer+Science;Best+Paper+Award+Winner;ACM+TKDD+and+IEEE+Published+Researcher;Creator+of+GraphSketch+and+Adaptive+DecayRank;Graph+ML+%7C+GNNs+%7C+Geospatial+AI+%7C+Cybersecurity+AI" />
+</p>
 # 👋 Hey, I'm Anthony O. Ekle
 
 ### PhD Candidate (AI/ML) • Graph ML Researcher • Builder of Intelligent Learning Systems
