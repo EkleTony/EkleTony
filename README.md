@@ -7,12 +7,11 @@
 </p>
 
 <p align="center">
-  🧠 Graph ML • 🔬 Anomaly Detection • 🚀 GNNs • 🌍 Geospatial AI • 🏆 Best Paper Award Winner
 </p>
 
 # 👋 Hey, I'm Anthony O. Ekle
 
-### PhD Candidate (AI/ML) • Graph ML Researcher • Builder of Intelligent Learning Systems
+### PhD Candidate (AI/ML) • Graph ML Researcher • Builder of Intelligent Learning Systems • 🏆 Best Paper Award Winner
 
 I develop AI systems that learn from evolving networks, detect anomalies in real time, and make intelligent decisions from complex graph-structured data.
 
