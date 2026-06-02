@@ -32,10 +32,23 @@ If you need someone who can design algorithms, build AI systems, and publish imp
 
 # 🔗 Quick Links
 
-* 💼 LinkedIn
-* 📚 Google Scholar
-* 🌐 GitHub
-* 📧 Email: [ekleanthony5@gmail.com](mailto:ekleanthony5@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/anthonyekle/">
+  <img src="https://img.shields.io/badge/LinkedIn-Anthony%20Ekle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://scholar.google.com/citations?user=fk1n8VQAAAAJ&hl=en">
+  <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
+
+<a href="https://github.com/EkleTony">
+  <img src="https://img.shields.io/badge/GitHub-EkleTony-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:ekleanthony5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ekleanthony5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
