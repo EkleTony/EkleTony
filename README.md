@@ -64,7 +64,7 @@ If you need someone who can design algorithms, build AI systems, and publish imp
 
 # 🧩 What I'm Building
 
-📈 **GraphSketch** :Memory-efficient real-time anomaly detection for dynamic graph streams using probabilistic sketching. [![IEEE ICKG](https://img.shields.io/badge/IEEE-ICKG%202025-blue?style=flat-square)](https://arxiv.org/abs/2509.11633)
+📈 **GraphSketch** :Scalable real-time anomaly detection for dynamic streams using probabilistic sketching. [![IEEE ICKG](https://img.shields.io/badge/IEEE-ICKG%202025-blue?style=flat-square)](https://arxiv.org/abs/2509.11633)
 
 🧠 **Adaptive-DecayRank**: Real-time Node anomaly detection in evolving graph networks. [![Applied Sciences](https://img.shields.io/badge/MDPI-Applied%20Sciences-orange?style=flat-square)](https://www.mdpi.com/2076-3417/15/6/3360)
 
