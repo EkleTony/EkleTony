@@ -66,7 +66,7 @@ If you need someone who can design algorithms, build AI systems, and publish imp
 
 📈 **GraphSketch** :Memory-efficient real-time anomaly detection for dynamic graph streams using probabilistic sketching. [![IEEE ICKG](https://img.shields.io/badge/IEEE-ICKG%202025-blue?style=flat-square)](https://arxiv.org/abs/2509.11633)
 
-🧠 **Adaptive-DecayRank**: Bayesian PageRank framework for real-time anomaly detection in evolving networks. [![Applied Sciences](https://img.shields.io/badge/MDPI-Applied%20Sciences-orange?style=flat-square)](https://www.mdpi.com/2076-3417/15/6/3360)
+🧠 **Adaptive-DecayRank**: Real-time Node anomaly detection in evolving graph networks. [![Applied Sciences](https://img.shields.io/badge/MDPI-Applied%20Sciences-orange?style=flat-square)](https://www.mdpi.com/2076-3417/15/6/3360)
 
 🌎 **GeoModRank**: Self-supervised spatial representation learning for multimodal geospatial and climate data. [![GitHub](https://img.shields.io/badge/View-Repository-green?style=flat-square)](https://github.com/EkleTony/healthy-climate-ssl)
 
