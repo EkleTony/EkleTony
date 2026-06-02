@@ -11,7 +11,7 @@
 
 # 👋 Hey, I'm Anthony O. Ekle
 
-### PhD Candidate (AI/ML) • Graph ML Researcher • Builder of Intelligent Learning Systems • 🏆 Best Paper Award Winner
+### PhD Candidate (AI/ML) • Graph ML Researcher • Builder of Intelligent Learning Systems • 🏆 Best Paper Award 
 
 I develop AI systems that learn from evolving networks, detect anomalies in real time, and make intelligent decisions from complex graph-structured data.
 
