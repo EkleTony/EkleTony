@@ -126,7 +126,7 @@ I am particularly interested in scalable AI systems that operate in real-world e
 # 🏆 Achievements & Honors
 
 <p align="center">
-  <img src="images/best_paper_award1.jpeg" width="20%" />
+  <img src="images/best_paper_award1.jpeg" width="20.5%" />
   <img src="images/best_paper_award2.jpeg" width="18%" />
 </p>
 
