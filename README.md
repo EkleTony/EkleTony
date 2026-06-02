@@ -134,23 +134,14 @@ I am particularly interested in scalable AI systems that operate in real-world e
 
 # 🛠 Tech Stack
 
-| 🤖 Machine Learning & NLP                     | 🧠 Generative AI                       | ⚙️ AI Systems & MLOps             | 💻 Programming & Infrastructure |
-| --------------------------------------------- | -------------------------------------- | --------------------------------- | ------------------------------- |
-| • PyTorch                                     | • Large Language Models (LLMs)         | • Predictive Modeling             | • Python                        |
-| • TensorFlow                                  | • LangChain                            | • Statistical Modeling            | • C++                           |
-| • Scikit-Learn                                | • Retrieval-Augmented Generation (RAG) | • Time Series Analysis            | • SQL                           |
-| • Deep Learning                               | • Embeddings                           | • Model Evaluation & Optimization | • JavaScript                    |
-| • Transformers                                | • Vector Databases                     | • Risk Modeling                   | • React                         |
-| • CNNs                                        | • Knowledge Graphs                     | • Streaming Analytics             | • Linux                         |
-| • Graph Neural Networks (GCN, GAT, GraphSAGE) | • Agentic AI Systems                   | • Real-Time Inference Pipelines   | • Git                           |
-| • Graph Machine Learning                      | • Hugging Face Transformers            | • ETL Workflows                   | • Docker                        |
-| • Representation Learning                     | • Diffusion Models                     | • Distributed Experimentation     | • Conda                         |
-| • Anomaly Detection                           | • CLIP                                 | • GPU-Accelerated Training        | • Jupyter                       |
-| • Natural Language Processing (NLP)           | • DALL·E                               | • AI Infrastructure               | • VS Code                       |
-| • Multimodal Learning                         | • Stable Diffusion                     | • AIOps & Intelligent Monitoring  | • Google Colab                  |
-| • Self-Supervised Learning                    | • Prompt Engineering                   | • Scalable ML Systems             | • NVIDIA A100                   |
-| • Graph Analytics                             | • AI Agents & Tool Use                 | • Production ML Workflows         | • NVIDIA Jetson Orin            |
-| • Dynamic Graph Streams                       | • Multimodal Foundation Models         | • Real-Time ML Pipelines          | • RTX-A5000                     |
+| 🤖 Machine Learning                           | 🧠 Generative AI                                    | ⚙️ AI Systems & MLOps             | 💻 Programming & Infrastructure |
+| --------------------------------------------- | --------------------------------------------------- | --------------------------------- | ------------------------------- |
+| • PyTorch, TensorFlow, Scikit-Learn           | • LLMs, LangChain, Hugging Face                     | • Real-Time Inference             | • Python, C++, SQL              |
+| • Deep Learning (CNNs, Transformers)          | • RAG & Embeddings                                  | • Streaming Analytics             | • JavaScript, React             |
+| • Graph Neural Networks (GCN, GAT, GraphSAGE) | • Vector Databases                                  | • Model Evaluation & Optimization | • Linux, Git, Docker            |
+| • Graph Machine Learning                      | • Knowledge Graphs (Neo4j)                          | • Distributed Training            | • Conda, Jupyter                |
+| • NLP & Multimodal Learning                   | • Agentic AI & AI Agents                            | • AI Infrastructure & AIOps       | • NVIDIA A100, Jetson           |
+| • Anomaly Detection & Representation Learning | • Diffusion Models (CLIP, DALL·E, Stable Diffusion) | • Scalable ML Systems             | • GPU-Accelerated Computing     |
 
 
 ---
