@@ -69,7 +69,7 @@ If you need someone who can design algorithms, build AI systems, and publish imp
 
 🌎 **GeoModRank**: Self-supervised spatial representation learning for multimodal geospatial and climate data. [![GitHub](https://img.shields.io/badge/View-Repository-green?style=flat-square)](https://github.com/EkleTony/healthy-climate-ssl)
 
-🚗 **ViGAT**: Multi-scale Vision-to-Graph anomaly detection for autonomous vehicles and intelligent perception systems. [![CVPR](https://img.shields.io/badge/CVPR%202026-Under%20Review-red?style=flat-square)](https://scholar.google.com/citations?user=fk1n8VQAAAAJ&hl=en)
+🚗 **ViGAT**: Multi-scale Vision-to-Graph anomaly detection for autonomous vehicles and intelligent perception systems. [![IEEE IoT](https://img.shields.io/badge/CVPR%202026-Under%20Review-red?style=flat-square)](https://scholar.google.com/citations?user=fk1n8VQAAAAJ&hl=en)
 
 ---
 
