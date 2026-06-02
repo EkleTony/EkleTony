@@ -134,76 +134,54 @@ I am particularly interested in scalable AI systems that operate in real-world e
 
 # 🛠 Tech Stack
 
-| 🤖 Machine Learning                           | 🧠 Generative AI                       | ⚙️ Infrastructure           | 💻 Languages |
-| --------------------------------------------- | -------------------------------------- | --------------------------- | ------------ |
-| • PyTorch                                     | • Large Language Models (LLMs)         | • Linux                     | • Python     |
-| • TensorFlow                                  | • LangChain                            | • Git                       | • C++        |
-| • Scikit-Learn                                | • Retrieval-Augmented Generation (RAG) | • Docker                    | • SQL        |
-| • Transformers                                | • Vector Databases                     | • Conda                     | • JavaScript |
-| • CNNs                                        | • Knowledge Graphs                     | • Jupyter                   |              |
-| • Graph Neural Networks (GCN, GAT, GraphSAGE) | • Agentic AI Systems                   | • GPU-Accelerated Computing |              |
+| 🤖 Machine Learning & NLP                     | 🧠 Generative AI                       | ⚙️ AI Systems & MLOps             | 💻 Programming & Infrastructure |
+| --------------------------------------------- | -------------------------------------- | --------------------------------- | ------------------------------- |
+| • PyTorch                                     | • Large Language Models (LLMs)         | • Predictive Modeling             | • Python                        |
+| • TensorFlow                                  | • LangChain                            | • Statistical Modeling            | • C++                           |
+| • Scikit-Learn                                | • Retrieval-Augmented Generation (RAG) | • Time Series Analysis            | • SQL                           |
+| • Deep Learning                               | • Embeddings                           | • Model Evaluation & Optimization | • JavaScript                    |
+| • Transformers                                | • Vector Databases                     | • Risk Modeling                   | • React                         |
+| • CNNs                                        | • Knowledge Graphs                     | • Streaming Analytics             | • Linux                         |
+| • Graph Neural Networks (GCN, GAT, GraphSAGE) | • Agentic AI Systems                   | • Real-Time Inference Pipelines   | • Git                           |
+| • Graph Machine Learning                      | • Hugging Face Transformers            | • ETL Workflows                   | • Docker                        |
+| • Representation Learning                     | • Diffusion Models                     | • Distributed Experimentation     | • Conda                         |
+| • Anomaly Detection                           | • CLIP                                 | • GPU-Accelerated Training        | • Jupyter                       |
+| • Natural Language Processing (NLP)           | • DALL·E                               | • AI Infrastructure               | • VS Code                       |
+| • Multimodal Learning                         | • Stable Diffusion                     | • AIOps & Intelligent Monitoring  | • Google Colab                  |
+| • Self-Supervised Learning                    | • Prompt Engineering                   | • Scalable ML Systems             | • NVIDIA A100                   |
+| • Graph Analytics                             | • AI Agents & Tool Use                 | • Production ML Workflows         | • NVIDIA Jetson Orin            |
+| • Dynamic Graph Streams                       | • Multimodal Foundation Models         | • Real-Time ML Pipelines          | • RTX-A5000                     |
 
-
-
-# 🛠 Tech Stack
-
-### Languages
-
-* Python
-* C++
-* SQL
-* JavaScript
-
-### Machine Learning
-
-* PyTorch
-* TensorFlow
-* Scikit-Learn
-* Transformers
-* CNNs
-* Graph Neural Networks
-
-### Generative AI
-
-* LLMs
-* LangChain
-* RAG
-* Vector Databases
-* Knowledge Graphs
-* Agentic AI
-
-### Infrastructure
-
-* Linux
-* Git
-* Docker
-* Conda
-* Jupyter
-* GPU-Accelerated Computing
 
 ---
 
 # 🤝 Leadership & Service
-
-* President, African Student Union
+* Research Lead for Graph ML, Dynamic Graph Analytics, and Autonomous AI Systems projects
+* Led interdisciplinary AI/ML initiatives spanning cybersecurity, geospatial AI, autonomous systems, and software engineering
+* NSF REU Research Mentor, guiding undergraduate researchers in AI, Machine Learning, and Data Science
+* Peer Reviewer for ACM TKDD, IEEE SMC, Pattern Recognition, and Springer Nature journals
+* Technical leader experienced in cross-functional collaboration, research communication, and large-scale AI project execution
+* President, African Student Union (Tennessee Tech University)
 * President, Computer Science Graduate Student Club
-* NSF REU Research Mentor
-* Reviewer for ACM TKDD, IEEE SMC, Pattern Recognition, and Springer Nature Journals
+
 
 ---
 
-# 🚀 Let's Connect
+# 🤝 Let's Connect
+
+I'm passionate about building intelligent systems that bridge cutting-edge AI research and real-world impact.
 
 I'm actively interested in opportunities involving:
 
-* Research Scientist
-* Applied Scientist
-* AI Research
-* Graph Machine Learning
-* Multimodal AI
-* Geospatial AI
-* Trustworthy AI
+* 🧠 Research Scientist & Applied Scientist Roles
+* 🤖 Artificial Intelligence & Machine Learning
+* 📈 Graph Machine Learning & Graph Neural Networks
+* 🌎 Geospatial AI & Spatial Foundation Models
+* 🚗 Autonomous Systems & Multimodal AI
+* 🔐 Trustworthy AI, Cybersecurity, and Anomaly Detection
+* ⚡ Scalable AI Systems, Real-Time Inference, and Intelligent Decision-Making
 
-Feel free to reach out if you'd like to collaborate on research, AI systems, or innovative graph learning projects.
+I enjoy collaborating on ambitious research, open-source projects, and AI systems that solve challenging real-world problems. If you're interested in collaboration, research partnerships, or discussing innovative AI ideas, feel free to reach out.
 
-📧 **[ekleanthony5@gmail.com](mailto:ekleanthony5@gmail.com)**
+📧 **[ekleanthony5@gmail.com](mailto:ekleanthony5@gmail.com)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/anthonyekle/)**
