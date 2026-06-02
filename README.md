@@ -1,5 +1,5 @@
 
-  <img width="80%" height="220" src="https://miro.medium.com/v2/resize:fit:1400/1*5GKZnaBauKBdVcbzqQ70RA.gif" alt="Graph ML Animated Header"/>
+  <img align="center" width="80%" height="220" src="https://miro.medium.com/v2/resize:fit:1400/1*5GKZnaBauKBdVcbzqQ70RA.gif" alt="Graph ML Animated Header"/>
 </p>
 
 <p align="center">
