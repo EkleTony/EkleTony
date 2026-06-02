@@ -9,7 +9,6 @@
 <p align="center">
 
 
-
 # 👋 Hey, I'm Anthony O. Ekle
 
 ### PhD Candidate (AI/ML) • Graph ML Researcher • Builder of Intelligent Learning Systems • 🏆 Best Paper Award 
