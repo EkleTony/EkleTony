@@ -77,9 +77,7 @@ If you need someone who can design algorithms, build AI systems, and publish imp
 
 # 🔬 Research Overview
 
-My research focuses on building intelligent systems capable of learning from dynamic environments and making decisions under uncertainty.
-
-Core research themes include:
+My research focuses on building intelligent systems capable of learning from dynamic environments and making decisions under uncertainty. Core research themes include:
 
 * Dynamic Graph Learning
 * Graph Neural Networks
