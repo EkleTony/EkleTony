@@ -92,7 +92,7 @@ I am particularly interested in scalable AI systems that operate in real-world e
 # 🧪 Research Highlights (Selected)
 
 * 📄 Adaptive GraphSketch: Real-Time Edge Anomaly Detection via Multi-Layer Tensor Sketching (IEEE ICKG 2025)
-* 📄 Adaptive DecayRank: Real-Time Anomaly Detection in Dynamic Graphs with Bayesian PageRank Updates (Applied Sciences)
+* 📄 Adaptive DecayRank: Real-Time Anomaly Detection in Dynamic Graphs with Bayesian Updates (Applied Sci)
 * 📄 Anomaly Detection in Dynamic Graphs: A Comprehensive Survey (ACM TKDD)
 * 📄 Cyber Risk Evaluation for Android-Based Devices (IEEE DSC)
 * 📄 Machine Learning Enhanced Categorization of Cybersecurity Vulnerabilities (IEEE UEMCON)
