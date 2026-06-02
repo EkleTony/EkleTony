@@ -40,6 +40,15 @@ If you need someone who can design algorithms, build AI systems, and publish imp
 
 ---
 
+## 🎓 Education
+
+- Ph.D. Candidate, Computer Science (AI & Machine Learning) 
+  Tennessee Technological University (2023–Present)
+
+- M.Sc., Applied Mathematics & Informatics
+  Moscow Institute of Physics and Technology (MIPT), Russia (2020–2022)
+
+---
 # 🔗 Quick Links
 
 <p align="left">
