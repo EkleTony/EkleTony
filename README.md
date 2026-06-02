@@ -106,7 +106,7 @@ I am particularly interested in scalable AI systems that operate in real-world e
 
 * **Adaptive-GraphSketch: Real-Time Edge Anomaly Detection via Multi-Layer Tensor Sketching** — IEEE ICKG 2025 [![arXiv](https://img.shields.io/badge/arXiv-2509.11633-b31b1b?style=flat-square)](https://arxiv.org/abs/2509.11633)
 
-* **Adaptive DecayRank: Real-Time Anomaly Detection in Dynamic Graphs with Bayesian PageRank Updates** — Applied Sciences 2025 [![Journal](https://img.shields.io/badge/Journal-MDPI-orange?style=flat-square)](https://www.mdpi.com/2076-3417/15/6/3360)
+* **Adaptive-DecayRank: Real-Time Anomaly Detection in Dynamic Graphs with Bayesian Updates** — Apl. Sci 2025 [![Journal](https://img.shields.io/badge/Journal-MDPI-orange?style=flat-square)](https://www.mdpi.com/2076-3417/15/6/3360)
 
 * **Anomaly Detection in Dynamic Graphs: A Comprehensive Survey** — ACM TKDD 2024 [![ACM](https://img.shields.io/badge/ACM-TKDD-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3669906)
 
