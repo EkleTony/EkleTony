@@ -54,35 +54,21 @@ If you need someone who can design algorithms, build AI systems, and publish imp
 
 # 🧩 What I'm Building
 
-## 📈 GraphSketch
+### 📈 GraphSketch
 
-A memory-efficient framework for real-time anomaly detection in dynamic graph streams using probabilistic sketching techniques.
+Memory-efficient real-time anomaly detection for dynamic graph streams using probabilistic sketching. [![IEEE ICKG](https://img.shields.io/badge/IEEE-ICKG%202025-blue?style=flat-square)](https://arxiv.org/abs/2509.11633)
 
-**Published at IEEE ICKG 2025**
+### 🧠 Adaptive DecayRank
 
----
+Bayesian PageRank framework for real-time anomaly detection in evolving networks. [![Applied Sciences](https://img.shields.io/badge/MDPI-Applied%20Sciences-orange?style=flat-square)](https://www.mdpi.com/2076-3417/15/6/3360)
 
-## 🧠 Adaptive DecayRank
+### 🌎 GeoModRank
 
-A real-time graph intelligence framework using Bayesian PageRank updates to detect structural and temporal anomalies in evolving networks.
+Self-supervised spatial representation learning for multimodal geospatial and climate data. [![GitHub](https://img.shields.io/badge/View-Repository-green?style=flat-square)](https://github.com/EkleTony/healthy-climate-ssl)
 
-**Published in Applied Sciences**
+### 🚗 ViGAT
 
----
-
-## 🌎 GeoModRank
-
-A self-supervised learning framework for multimodal geospatial data and climate-related representation learning.
-
-Developed for large-scale spatial intelligence and environmental modeling.
-
----
-
-## 🚗 ViGAT
-
-A multi-scale Vision-to-Graph anomaly detection framework for autonomous vehicles.
-
-Designed to bridge visual perception and graph reasoning for trustworthy AI systems.
+Multi-scale Vision-to-Graph anomaly detection for autonomous vehicles and intelligent perception systems. [![CVPR](https://img.shields.io/badge/CVPR%202026-Under%20Review-red?style=flat-square)](https://scholar.google.com/citations?user=fk1n8VQAAAAJ&hl=en)
 
 ---
 
@@ -118,35 +104,22 @@ I am particularly interested in scalable AI systems that operate in real-world e
 
 # 📄 Publications (Selected)
 
-### ACM TKDD
+* **ViGAT: Vision-to-Graph Anomaly Detection for Autonomous Vehicles** — CVPR 2026 (Under Review) [![Paper](https://img.shields.io/badge/Status-Under%20Review-red?style=flat-square)](https://scholar.google.com/citations?user=fk1n8VQAAAAJ&hl=en)
 
-**Anomaly Detection in Dynamic Graphs: A Comprehensive Survey**
+* **Adaptive-GraphSketch: Real-Time Edge Anomaly Detection via Multi-Layer Tensor Sketching** — IEEE ICKG 2025 [![arXiv](https://img.shields.io/badge/arXiv-2509.11633-b31b1b?style=flat-square)](https://arxiv.org/abs/2509.11633)
 
----
+* **Adaptive DecayRank: Real-Time Anomaly Detection in Dynamic Graphs with Bayesian PageRank Updates** — Applied Sciences 2025 [![Journal](https://img.shields.io/badge/Journal-MDPI-orange?style=flat-square)](https://www.mdpi.com/2076-3417/15/6/3360)
 
-### Applied Sciences
+* **Anomaly Detection in Dynamic Graphs: A Comprehensive Survey** — ACM TKDD 2024 [![ACM](https://img.shields.io/badge/ACM-TKDD-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3669906)
 
-**Adaptive DecayRank: Real-Time Anomaly Detection in Dynamic Graphs with Bayesian PageRank Updates**
+* **Dynamic PageRank with Decay** — FLAIRS 2024 [![FLAIRS](https://img.shields.io/badge/Conference-FLAIRS-green?style=flat-square)](https://journals.flvc.org/FLAIRS/article/view/135553)
 
----
+* **Cyber Risk Evaluation for Android-Based Devices** — IEEE DSC 2023 [![IEEE](https://img.shields.io/badge/IEEE-DSC-blue?style=flat-square)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10354217)
 
-### IEEE ICKG
+* **Machine Learning Enhanced Categorization of Cybersecurity Vulnerabilities** — IEEE UEMCON 2024 [![IEEE](https://img.shields.io/badge/IEEE-UEMCON-blue?style=flat-square)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10754709)
 
-**Adaptive GraphSketch: Real-Time Edge Anomaly Detection via Multi-Layer Tensor Sketching**
+* **Low-Resource Neural Machine Translation for English–Igbo** — arXiv 2025 [![arXiv](https://img.shields.io/badge/arXiv-2504.17252-b31b1b?style=flat-square)](https://arxiv.org/abs/2504.17252)
 
----
-
-### IEEE DSC
-
-**Cyber Risk Evaluation for Android-Based Devices**
-
----
-
-### IEEE UEMCON
-
-**Machine Learning Enhanced Categorization of Cybersecurity Vulnerabilities**
-
----
 
 # 🏆 Achievements & Honors
 
