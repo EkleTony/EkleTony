@@ -1,4 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Welcome+to+Anthony+Ekle's+GitHub;Graph+Machine+Learning+Researcher;Best+Paper+Award+Winner;PhD+Candidate+at+Tennessee+Tech;Anomaly+Detection+%7C+GNNs+%7C+Geospatial+AI)]()
+<p align="center">
+  <img width="100%" src="https://miro.medium.com/v2/resize:fit:1400/1*5GKZnaBauKBdVcbzqQ70RA.gif" alt="Graph ML Animated Header"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Welcome+to+Anthony+Ekle's+GitHub;Graph+Machine+Learning+Researcher;Best+Paper+Award+Winner;PhD+Candidate+at+Tennessee+Tech;Anomaly+Detection+%7C+GNNs+%7C+Geospatial+AI" />
+</p>
+
+<p align="center">
+  🧠 Graph ML • 🔬 Anomaly Detection • 🚀 GNNs • 🌍 Geospatial AI • 🏆 Best Paper Award Winner
+</p>
 
 # 👋 Hey, I'm Anthony O. Ekle
 
