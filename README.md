@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="60%" height="150" src="https://miro.medium.com/v2/resize:fit:1400/1*5GKZnaBauKBdVcbzqQ70RA.gif" alt="Graph ML Animated Header"/>
+  <img width="75%" height="200" src="https://miro.medium.com/v2/resize:fit:1400/1*5GKZnaBauKBdVcbzqQ70RA.gif" alt="Graph ML Animated Header"/>
 </p>
 
 <p align="center">
