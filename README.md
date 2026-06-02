@@ -134,6 +134,19 @@ I am particularly interested in scalable AI systems that operate in real-world e
 
 # 🛠 Tech Stack
 
+| 🤖 Machine Learning                           | 🧠 Generative AI                       | ⚙️ Infrastructure           | 💻 Languages |
+| --------------------------------------------- | -------------------------------------- | --------------------------- | ------------ |
+| • PyTorch                                     | • Large Language Models (LLMs)         | • Linux                     | • Python     |
+| • TensorFlow                                  | • LangChain                            | • Git                       | • C++        |
+| • Scikit-Learn                                | • Retrieval-Augmented Generation (RAG) | • Docker                    | • SQL        |
+| • Transformers                                | • Vector Databases                     | • Conda                     | • JavaScript |
+| • CNNs                                        | • Knowledge Graphs                     | • Jupyter                   |              |
+| • Graph Neural Networks (GCN, GAT, GraphSAGE) | • Agentic AI Systems                   | • GPU-Accelerated Computing |              |
+
+
+
+# 🛠 Tech Stack
+
 ### Languages
 
 * Python
