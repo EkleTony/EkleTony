@@ -127,7 +127,7 @@ I am particularly interested in scalable AI systems that operate in real-world e
 
 <p align="center">
   <img src="images/best_paper_award1.jpeg" width="20%" />
-  <img src="images/best_paper_award2.jpeg" width="17%" />
+  <img src="images/best_paper_award2.jpeg" width="18%" />
 </p>
 
 * 🥇 **Doctoral Best Paper Eminence Award** — Tennessee Tech College of Engineering
