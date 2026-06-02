@@ -31,7 +31,7 @@ I develop AI systems that learn from evolving networks, detect anomalies in real
 
 * 🏆 Best Paper Award Winner (College of Engineering, Tennessee Tech)
 * 📚 Published researcher with work in ACM TKDD, IEEE, FLAIRS, Applied Sciences, and other venues
-* 🔬 Creator of DecayRank, Adaptive DecayRank, GraphSketch, Adaptive GraphSketch, GeoModRank, and ViGAT
+* 🔬 Creator of Adaptive-DecayRank, Adaptive-GraphSketch, GeoModRank, and ViGAT
 * 🤖 Research spanning Graph ML, GNNs, Multimodal AI, Geospatial AI, and Autonomous Vehicle Security
 * 🐍 Strong experience in Python, PyTorch, C++, graph analytics, and scalable AI systems
 
@@ -82,12 +82,9 @@ Core research themes include:
 
 * Dynamic Graph Learning
 * Graph Neural Networks
-* Streaming AI Systems
-* Multimodal Learning
+* Multimodal & Geospatial AI
 * Self-Supervised Learning
-* Geospatial Foundation Models
 * Autonomous Vehicle Security
-* Cybersecurity AI
 
 I am particularly interested in scalable AI systems that operate in real-world environments where data evolves continuously and intelligent adaptation is required.
 
@@ -150,19 +147,19 @@ I am particularly interested in scalable AI systems that operate in real-world e
 | • Graph Neural Networks (GCN, GAT, GraphSAGE) | • Vector Databases                                  | • Model Evaluation & Optimization | • Linux, Git, Docker            |
 | • Graph Machine Learning                      | • Knowledge Graphs (Neo4j)                          | • Distributed Training            | • Conda, Jupyter                |
 | • NLP & Multimodal Learning                   | • Agentic AI & AI Agents                            | • AI Infrastructure & AIOps       | • NVIDIA A100, Jetson           |
-| • Anomaly Detection & Representation Learning | • Diffusion Models (CLIP, DALL·E, Stable Diffusion) | • Scalable ML Systems             | • GPU-Accelerated Computing     |
+| • Anomaly Detection & Representation Learning | • Diffusion Models & Foundation Models              | • Scalable ML Systems             | • GPU-Accelerated Computing     |
 
 
 ---
 
 # 🤝 Leadership & Service
+* President, African Student Union (Tennessee Tech University)
+* President, Computer Science Graduate Student Club
 * Research Lead for Graph ML, Dynamic Graph Analytics, and Autonomous AI Systems projects
 * Led interdisciplinary AI/ML initiatives spanning cybersecurity, geospatial AI, autonomous systems, and software engineering
 * NSF REU Research Mentor, guiding undergraduate researchers in AI, Machine Learning, and Data Science
 * Peer Reviewer for ACM TKDD, IEEE SMC, Pattern Recognition, and Springer Nature journals
 * Technical leader experienced in cross-functional collaboration, research communication, and large-scale AI project execution
-* President, African Student Union (Tennessee Tech University)
-* President, Computer Science Graduate Student Club
 
 
 ---
