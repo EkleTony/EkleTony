@@ -1,10 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:020024,50:090979,100:00d4ff&text=Welcome%20to%20Anthony%20Ekle's%20GitHub&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Graph%20Machine%20Learning%20•%20Anomaly%20Detection%20•%20GNNs%20•%20AI%20Research&descSize=18&descAlignY=65" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Welcome%20to%20Anthony%20Ekle's%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Graph%20Machine%20Learning%20•%20Anomaly%20Detection%20•%20Graph%20Neural%20Networks%20•%20Geospatial%20AI%20•%20Cybersecurity%20AI&descAlignY=62&descSize=18&color=0:020024,25:090979,50:0047AB,75:007CF0,100:00D4FF"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=PhD+Candidate+in+Computer+Science;Best+Paper+Award+Winner;ACM+TKDD+and+IEEE+Published+Researcher;Creator+of+GraphSketch+and+Adaptive+DecayRank;Graph+ML+%7C+GNNs+%7C+Geospatial+AI+%7C+Cybersecurity+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1200&lines=PhD+Candidate+in+Computer+Science+%40+Tennessee+Tech;Best+Paper+Award+Winner;ACM+TKDD+and+IEEE+Published+Researcher;Creator+of+GraphSketch%2C+Adaptive+DecayRank+and+GeoModRank;Graph+ML+%7C+GNNs+%7C+Geospatial+AI+%7C+Cybersecurity+AI;Building+Intelligent+Systems+for+Dynamic+Real-World+Environments"/>
 </p>
+
+<p align="center">
+🏆 Best Paper Award Winner • 📚 ACM TKDD Author • 🔬 Graph ML Researcher • 🚀 AI Systems Builder
+</p>
+
 # 👋 Hey, I'm Anthony O. Ekle
 
 ### PhD Candidate (AI/ML) • Graph ML Researcher • Builder of Intelligent Learning Systems
