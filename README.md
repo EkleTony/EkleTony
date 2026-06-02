@@ -125,12 +125,19 @@ I am particularly interested in scalable AI systems that operate in real-world e
 
 # 🏆 Achievements & Honors
 
-* 🥇 Doctoral Best Paper Eminence Award
-* 🥇 Best Graduate Poster Award
-* 🎓 Fully Funded PhD Fellowship
-* 🌍 Open Doors International Olympiad Winner
-* 🎓 University of Milan-Bicocca PhD Scholarship Recipient
-* 💻 MIPT Phystech-Alpha Competition Award Recipient
+<p align="center">
+  <img src="images/best-paper-award-1.jpg" width="45%" />
+  <img src="images/best-paper-award-2.jpg" width="45%" />
+</p>
+
+* 🥇 **Doctoral Best Paper Eminence Award** — Tennessee Tech College of Engineering
+* 🥇 **Best Graduate Poster Award**
+* 🎓 **Fully Funded PhD Fellowship**
+* 🌍 **Open Doors International Olympiad Winner**
+* 🎓 **University of Milan-Bicocca PhD Scholarship Recipient**
+* 💻 **MIPT Phystech-Alpha Competition Award Recipient**
+
+> Recognized for excellence in AI, Machine Learning, and Graph-Based Research.
 
 ---
 
