@@ -126,8 +126,8 @@ I am particularly interested in scalable AI systems that operate in real-world e
 # 🏆 Achievements & Honors
 
 <p align="center">
-  <img src="images/best-paper-award-1.jpg" width="38%" />
-  <img src="images/best-paper-award-2.jpg" width="38%" />
+  <img src="images/best_paper_award1.jpeg" width="38%" />
+  <img src="images/best_paper_award2.jpeg" width="38%" />
 </p>
 
 * 🥇 **Doctoral Best Paper Eminence Award** — Tennessee Tech College of Engineering
