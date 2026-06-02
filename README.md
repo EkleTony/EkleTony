@@ -1,4 +1,4 @@
-<!-- <p align="center">
+
   <img width="80%" height="220" src="https://miro.medium.com/v2/resize:fit:1400/1*5GKZnaBauKBdVcbzqQ70RA.gif" alt="Graph ML Animated Header"/>
 </p>
 
@@ -7,14 +7,8 @@
 </p>
 
 <p align="center">
-</p> -->
-<p align="center">
-  <img width="100%" src="images/graph-banner.png" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Anthony+O.+Ekle;Best+Paper+Award+Winner;PhD+Candidate+%40+Tennessee+Tech;Graph+Machine+Learning+Researcher;Graph+ML+%7C+GNNs+%7C+Anomaly+Detection;Geospatial+AI+%7C+Multimodal+AI" />
-</p>
+
 
 # 👋 Hey, I'm Anthony O. Ekle
 
