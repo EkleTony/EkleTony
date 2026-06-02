@@ -9,7 +9,7 @@
 <p align="center">
 </p> -->
 <p align="center">
-  <img width="70%" src="https://miro.medium.com/v2/resize:fit:1400/1*5GKZnaBauKBdVcbzqQ70RA.gif" alt="Graph ML Header"/>
+  <img width="100%" src="images/graph-banner.png" />
 </p>
 
 <p align="center">
